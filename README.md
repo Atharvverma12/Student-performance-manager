@@ -381,17 +381,3 @@ The project can be further improved by adding:
 
 Java | OOP | File Handling | Git
 
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving the repository a ⭐ on GitHub!
-
----
-
-### 📌 Project Status
-
-**Completed — Academic Project**
-
-Made with ☕ Java and lots of debugging 😄
-
